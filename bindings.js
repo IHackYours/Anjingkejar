@@ -84,7 +84,7 @@ function touchDown(e){
       width: 80,
       height: 12
     })){
-      window.open('http://zolmeister.com')
+      window.open('https://wa.me/6283140861605')
     }
     
     // music attribution
@@ -94,7 +94,7 @@ function touchDown(e){
       width: 48,
       height: 12
     })){
-      window.open('https://soundcloud.com/chrissij')
+      window.open('https://soundcloud.com/')
     }
   }
   

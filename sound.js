@@ -47,9 +47,9 @@ function drawSoundControl() {
     ctx.fillRect(10, 10, 50, 20)
     ctx.fillStyle = '#333'
     ctx.font = 'normal 14px sans'
-    ctx.fillText('By: Zolmeister', 10, 20)
+    ctx.fillText('By: IHackYours', 10, 20)
     ctx.font = 'normal 12px sans'
-    ctx.fillText('Music: Chrissi J', 10, 42)
+    ctx.fillText('Music: failed', 10, 42)
   } else if (GAME.state === 'menu') {
     ctx.fillStyle = '#111'
     ctx.fillRect(10, 10, 50, 20)
